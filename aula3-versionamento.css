@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    padding: 20px;
+    align-items: center;
+}
+
+.quadrado1 {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    padding: 20px;
+}
+
+.quadrado2 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    padding: 20px;
+}
